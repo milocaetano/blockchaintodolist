@@ -1,0 +1,19 @@
+.list {
+  min-height: 100vh;
+}
+
+.list .item {
+  margin-bottom: 10px;
+}
+
+.list .item-checked .form-check-label {
+  text-decoration: line-through;
+}
+
+.list .items-row-container {
+  margin-top: 30px;
+}
+
+.list .section-header {
+  font-size: 30px;
+}

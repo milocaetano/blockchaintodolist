@@ -1,0 +1,15 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Decentralized todo list",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "truffle-assert": "^0.9.1"
+  },
+  "dependencies": {}
+}
